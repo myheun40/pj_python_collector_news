@@ -1,4 +1,4 @@
-# pj_python_collection_news
+# pj_python_collector_news
 - Streamlit, selenium, beautifulSoup4, requests, pymysql, apscheduler
 
 ### 1. 아나콘다 가상환경 사용법
